@@ -1,0 +1,12 @@
+body{
+background-color: lightslategrey;
+color: white;
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h2{
+    font-size: 50px;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
